@@ -1,0 +1,5 @@
+cccce13 (HEAD -> main, origin/main, origin/feature/stress-testing, origin/HEAD, feature/stress-testing) test: add first load test file
+58c6bbb feat: add initial JMeter load test script
+bd36d9d commit: добавляем файлы в отслеживание
+ac244e6 commit: добавляем файлы в отслеживание
+62c27b6 Initial commit
